@@ -4,6 +4,7 @@
 This repository contains **JDBC(Java Database Connectivity)** 
 
 first download the mysql connector from this url https://dev.mysql.com/downloads/connector/j/
+
 create one lib folder inside your simple java project and paste mysql connector inside lib folder
 
 ##Steps to connect our java application to databases:
