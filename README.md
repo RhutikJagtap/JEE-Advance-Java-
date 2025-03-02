@@ -1,2 +1,2 @@
 # JEE-Advance-Java-
-repository contains the  concepts, including JSP, Servlets, JDBC, Hibernate, and Spring
+repository contains the  concepts, including JDBC, JSP, Servlets
