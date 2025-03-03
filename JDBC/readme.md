@@ -14,4 +14,4 @@ create one lib folder inside your simple java project and paste mysql connector 
 4. **Execute the statement**
 5. **Close the connection**
 
-![Screenshot 2025-03-03 010734](https://github.com/user-attachments/assets/cb060a41-b7f4-4f9d-8dca-5633ffa45980)
+![{D02B1B69-AD66-4ED3-87E6-E73997F02316}](https://github.com/user-attachments/assets/7ba9a149-1666-4337-a5a3-c20da76470e5)
