@@ -17,3 +17,7 @@ create one lib folder inside your simple java project and paste mysql connector 
 Folder Structure
 
 ![{D02B1B69-AD66-4ED3-87E6-E73997F02316}](https://github.com/user-attachments/assets/7ba9a149-1666-4337-a5a3-c20da76470e5)
+
+
+### JDBC1
+|Create a Connection Between java application and database | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC1/src/com/javabyrj/learn/Program1.java)        |
