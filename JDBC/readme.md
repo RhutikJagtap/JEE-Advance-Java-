@@ -22,8 +22,8 @@ Folder Structure
 ### JDBC
 | Questions             | link                                                                                                                        |
 | ----------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------- |
-|###JDBC1 WAP to Create a connection between java application and database. | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC1/src/com/javabyrj/learn/Program1.java)        |
-|###JDBC2 WAP to fetch details from employee table.                         | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC2/src/com/javabyrj/learn/Program2.java)        |
+|JDBC1: WAP to Create a connection between java application and database. | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC1/src/com/javabyrj/learn/Program1.java)        |
+|JDBC2: WAP to fetch details from employee table.                         | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC2/src/com/javabyrj/learn/Program2.java)        |
 
 
 
