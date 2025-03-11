@@ -20,4 +20,10 @@ Folder Structure
 
 
 ### JDBC1
-|Create a Connection Between java application and database | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC1/src/com/javabyrj/learn/Program1.java)        |
+| Questions             | link                                                                                                                        |
+| ----------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------- |
+|WAP to Create a connection between java application and database | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC1/src/com/javabyrj/learn/Program1.java)        |
+
+### JDBC2
+| ----------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------- |
+|WAP to fetch details from employee table                         | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC2/src/com/javabyrj/learn/Program2.java) |
