@@ -24,6 +24,13 @@ Folder Structure
 | ----------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------- |
 |JDBC1: WAP to Create a connection between java application and database. | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC1/src/com/javabyrj/learn/Program1.java)        |
 |JDBC2: WAP to fetch details from employee table.                         | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC2/src/com/javabyrj/learn/Program2.java)        |
-
+|JDBC3: WAP to insert a row into employee table                           | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC3/src/com/javabyrj/learn/Program3.java)        |
+|JDBC4: WAP to update employee salaray to 5000 from HR Department         | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC4/src/com/javabyrj/learn/Program4.java)        |
+|JDBC5: WAP to delete employee from the HR Department                     | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC5/src/com/javabyrj/learn/Program5)        |
+|JDBC6: WAP to fetches the details of employees from a specific department(use prepareStatement)| [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC6/src/com/javabyrj/learn/Program6.java)        |
+|JDBC7: WAP to update the salary of an employee in a specific department(use prepareStatement)| [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC7/src/com/javabyrj/learn/Program7.java)        |
+|JDBC8: WAP to delete the employee in a specific department(use prepareStatement)| [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC8/src/com/rj/Program8.java)        |
+|JDBC9: WAP to insert the employee details (use prepareStatement)          | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC9/src/com/javabyrj/learn/Program9.java)        |
+|JDBC10: WAP to insert any number of employee (use prepareStatement)    | [click](https://github.com/RhutikJagtap/JEE-Advance-Java-/blob/main/JDBC/JDBC10/src/com/javabyrj/learn/Program10.java)    
 
 
